@@ -1,6 +1,6 @@
 # COVID-19-Global-Data-Tracker-Project
 
-#1️⃣ Import & Clean Data
+##1️⃣ Import & Clean Data
 
 #Load owid_covid_data.csv using Pandas in Python.
 
@@ -8,7 +8,7 @@
 
 #Standardize country names for consistency.
 
-2️⃣ Analyze Time Trends
+###2️⃣ Analyze Time Trends
 
 #Aggregate daily cases, deaths, and vaccinations over time.
 
@@ -16,7 +16,7 @@
 
 #Identify peaks and trends using time-series analysis.
 
-#3️⃣ Compare Metrics Across Countries
+####3️⃣ Compare Metrics Across Countries
 
 #Extract data for Nigeria, South Africa, Japan, Egypt, Russia, and Canada.
 
@@ -24,7 +24,7 @@
 
 #Use statistical measures (mean, median, standard deviation) for insights.
 
-#4️⃣ Visualize Trends
+#####4️⃣ Visualize Trends
 
 #Line charts for cases, deaths, and vaccinations over time.
 
